@@ -1,0 +1,32 @@
+.Card{
+    border: 1px solid #000;
+    margin: 20px 0px 10px 10px;
+    width: 250px;
+	display: inline-block;
+ 
+}
+
+.Card-image{
+    border-radius: 4px;
+    height: 150px;
+    Width: 150px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.Card-button{
+    border-top: 1px solid #000;
+    padding-left: 30px;
+}
+
+.Link{
+    text-decoration: none;
+}
+
+.List{
+    padding: 5px 0px 0px 50px;
+}
+
+.List > li{
+    padding: 5px;
+}
